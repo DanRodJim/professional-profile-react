@@ -19,6 +19,7 @@ function Skills() {
     { name: 'MongoDB', level: 5 },
     { name: 'HTML', level: 4 },
     { name: 'Amazon Web Services', level: 4 },
+    { name: 'React', level: 3 },
     { name: 'GraphQL', level: 3 },
     { name: 'Pandas', level: 3 },
     { name: 'C++', level: 3 },

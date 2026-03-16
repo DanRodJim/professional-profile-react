@@ -2,27 +2,32 @@ import React from 'react';
 import { useTranslation } from 'react-i18next';
 import Slider from '../components/Slider';
 
+import travelImg from '../assets/images/travel.jpeg';
+import soccerImg from '../assets/images/soccer.jpg';
+import gamingImg from '../assets/images/videogames.jpg';
+import animeImg from '../assets/images/animemanga.jpg';
+
 function Hobbies() {
   const { t } = useTranslation();
   
   const hobbiesSlides = [
     {
-      image: '/src/assets/images/travel.jpeg',
+      image: travelImg,
       title: 'Travel',
       description: 'I have visited some different countries like Japan, Denmark, Switzerland, among others.'
     },
     {
-      image: '/src/assets/images/soccer.jpg',
+      image: soccerImg,
       title: 'Soccer',
       description: 'I frequently play soccer with friends and watch professional matches when my favorite teams play.'
     },
     {
-      image: '/src/assets/images/videogames.jpg',
+      image: gamingImg,
       title: 'Gaming',
       description: 'I relax from long days playing some of my favorite video games. My favorite one is Dota 2.'
     },
     {
-      image: '/src/assets/images/animemanga.jpg',
+      image: animeImg,
       title: 'Anime and Manga',
       description: 'I have watched anime and read manga since my childhood and I still enjoy it a lot.'
     }
