@@ -20,7 +20,7 @@ const resources = {
       "Hello and welcome to my profile page!": "Hello and welcome to my profile page!",
       "main_intro": "My name is Daniel Gustavo Rodriguez Jimenez, I'm a Software Engineer with 4 years of experience. I specialize in backend systems development, but I also have the knowledge and skills to work as a full-stack developer. I'm a huge technology and engineering enthusiast, and I often explore different topics that interest me, so I'm always learning new things. I'm the kind of person who isn't satisfied with the bare minimum when it comes to software development. I always try to implement different ideas and approaches to the various problems I encounter, striving to make the solution as polished and efficient as possible.",
       
-      "This project was made using Django, HTML, CSS and JavaScript.": "This project was made using Django, HTML, CSS and JavaScript.",
+      "This project was made using React, CSS and JavaScript.": "This project was made using React, CSS and JavaScript.",
       "I did this to show some of my skills as Software Engineer.": "I did this to show some of my skills as Software Engineer.",
       "If you want to know more about my work please contact me at my email: dgrj.tec@gmail.com": "If you want to know more about my work please contact me at my email: dgrj.tec@gmail.com",
       "Or check the links in the footer of this page.": "Or check the links in the footer of this page.",
@@ -94,7 +94,7 @@ const resources = {
       "Hello and welcome to my profile page!": "¡Hola y bienvenido a mi página de perfil!",
       "main_intro": "Me llamo Daniel Gustavo Rodríguez Jiménez y soy Ingeniero de Software con 4 años de experiencia. Me especializo en desarrollo de sistemas backend, pero también cuento con los conocimientos y habilidades para trabajar como desarrollador full-stack. Soy un gran entusiasta de la tecnología y la ingeniería, y suelo explorar diferentes temas que me interesan, por lo que siempre estoy aprendiendo cosas nuevas. Soy de los que no se conforman con lo mínimo en cuanto al desarrollo de software. Siempre intento implementar diferentes ideas y enfoques a los diversos problemas que encuentro, buscando que la solución sea lo más pulida y eficiente posible.",
       
-      "This project was made using Django, HTML, CSS and JavaScript.": "Este proyecto fue creado usando Django, HTML, CSS y JavaScript.",
+      "This project was made using React, CSS and JavaScript.": "Este proyecto fue creado usando React, CSS y JavaScript.",
       "I did this to show some of my skills as Software Engineer.": "Hice esto para mostrar algunas de mis habilidades como Ingeniero de Software.",
       "If you want to know more about my work please contact me at my email: dgrj.tec@gmail.com": "Si quieres saber más sobre mi trabajo ponte en contacto conmigo a mi correo electrónico: dgrj.tec@gmail.com",
       "Or check the links in the footer of this page.": "O consulte los enlaces en el pie de página de esta web.",
