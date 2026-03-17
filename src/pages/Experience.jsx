@@ -1,4 +1,3 @@
-import React from 'react';
 import { useTranslation } from 'react-i18next';
 import windriverLogo from '../assets/images/windriver-logo.jpg';
 import golabsLogo from '../assets/images/golabs-logo.jpg';

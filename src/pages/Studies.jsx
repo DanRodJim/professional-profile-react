@@ -10,7 +10,6 @@ function Studies() {
     setOpenCollapsible(openCollapsible === id ? null : id);
   };
   
-  // Lista de certificaciones
   const certifications = [
     {
       title: 'Learning Node.js',

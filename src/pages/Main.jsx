@@ -1,4 +1,3 @@
-import React from 'react';
 import { useTranslation } from 'react-i18next';
 import profilePic from '../assets/images/profile_picture.jpg';
 
