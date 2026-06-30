@@ -14,20 +14,21 @@ function Skills() {
     { name: 'PostgreSQL', level: 8 },
     { name: 'Git', level: 7 },
     { name: 'PrismaORM', level: 7 },
+    { name: 'FastApi', level: 6 },
     { name: 'Django', level: 5 },
     { name: 'SQLAlchemy', level: 5 },
     { name: 'MongoDB', level: 5 },
+    { name: 'Amazon Web Services', level: 5 },
+    { name: 'Docker', level: 5 },
     { name: 'HTML', level: 4 },
-    { name: 'Amazon Web Services', level: 4 },
     { name: 'React', level: 3 },
+    { name: 'Next.js', level: 3 },
     { name: 'GraphQL', level: 3 },
     { name: 'Pandas', level: 3 },
-    { name: 'C++', level: 3 },
     { name: 'CSS', level: 3 },
+    { name: 'C++', level: 3 },
     { name: 'Java', level: 2 },
-    { name: 'C#', level: 2 },
-    { name: 'Docker', level: 2 },
-    { name: 'Angular', level: 1 }
+    { name: 'C#', level: 2 }
   ];
   
   const softSkills = [
